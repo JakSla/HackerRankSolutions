@@ -1,3 +1,5 @@
+package WeekOfCode.Older;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -8,7 +10,7 @@ import java.util.regex.*;
  * HackerRank A Circle And A Square
  * https://www.hackerrank.com/contests/w29/challenges/a-circle-and-a-square
  */
-public class Solution {
+public class DrawCircleAndSquare {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

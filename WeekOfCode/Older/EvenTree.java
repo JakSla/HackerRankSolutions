@@ -1,10 +1,12 @@
+package WeekOfCode.Older;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.*;
 
 /**
- * HackerRank EvenTree
+ * HackerRank WeekOfCode.Older.EvenTree
  * https://www.hackerrank.com/challenges/even-tree
  */
 public class EvenTree {
